@@ -1,0 +1,7 @@
+.Country-Elem {
+    cursor: pointer;
+    border: 1px solid cornflowerblue;
+    max-width: 400px;
+    padding: 5px;
+    margin-bottom: -15px;
+}

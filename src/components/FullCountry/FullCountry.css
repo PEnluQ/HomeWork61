@@ -1,0 +1,9 @@
+.FullCountry {
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
+    width: 50%;
+    position: fixed;
+    right: 10%;
+    top: 40%;
+    padding: 10px;
+}
