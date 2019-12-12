@@ -37,7 +37,7 @@ class FullCountry extends Component {
                     })}
                 </ul>
             </div>
-        ) : (<div>Choose</div>);
+        ) : (<div className='FullCountry'>Choose Country</div>);
     }
 }
 
